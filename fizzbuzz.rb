@@ -1,8 +1,8 @@
 def fizzbuzz (number)
-  if number % 3 == 0 
+  if number % 3
     "Fizz"
-  if number % 5 == 0 
+  if number % 5
     "Buzz"
-  if number % [3,5] == 0 
+  if number % [3,5]
     "FizzBuzz"
 end
