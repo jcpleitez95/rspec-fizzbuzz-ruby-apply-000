@@ -3,5 +3,5 @@ def fizzbuzz (number)
    puts "Fizz"
  elsif number % 5 == 0 
    puts "Buzz"
- elsif number 
+ elsif number % 3 and number 
 end
