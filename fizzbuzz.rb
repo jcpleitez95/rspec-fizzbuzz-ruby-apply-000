@@ -6,4 +6,3 @@ def fizzbuzz (number)
  elsif number % 3 == 0 and number % 5 == 0 
   puts "FizzBuzz"
 end
-end
