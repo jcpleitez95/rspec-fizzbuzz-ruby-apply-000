@@ -1,5 +1,5 @@
 def fizzbuzz (number)
-  fizzbuzz (3) = "Fizz"
-  fizzbuzz (5) = "Buzz"
-  fizzbuzz (15) = "FizzBuzz"
+  3 = "Fizz"
+  5 = "Buzz"
+  15 = "FizzBuzz"
 end
